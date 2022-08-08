@@ -1,0 +1,381 @@
+,Home,xG,Score,xG.1,Away
+0,Brentford,1.3,2–0,1.4,Arsenal
+1,Manchester Utd,1.5,5–1,0.6,Leeds United
+2,Leicester City,0.8,1–0,1.1,Wolves
+3,Burnley,1.0,1–2,1.3,Brighton
+4,Chelsea,0.9,3–0,0.3,Crystal Palace
+5,Watford,1.2,3–2,1.1,Aston Villa
+6,Everton,2.4,3–1,0.7,Southampton
+7,Norwich City,1.4,0–3,2.0,Liverpool
+8,Newcastle Utd,1.5,2–4,2.3,West Ham
+9,Tottenham,1.3,1–0,1.9,Manchester City
+11,Liverpool,2.9,2–0,0.7,Burnley
+12,Aston Villa,1.1,2–0,0.7,Newcastle Utd
+13,Manchester City,2.7,5–0,0.1,Norwich City
+14,Leeds United,1.5,2–2,2.0,Everton
+15,Crystal Palace,0.6,0–0,0.9,Brentford
+16,Brighton,1.5,2–0,0.9,Watford
+17,Wolves,1.4,0–1,1.5,Tottenham
+18,Southampton,0.8,1–1,1.4,Manchester Utd
+19,Arsenal,0.3,0–2,2.9,Chelsea
+20,West Ham,2.5,4–1,0.8,Leicester City
+22,Manchester City,3.8,5–0,0.1,Arsenal
+23,Norwich City,1.6,1–2,1.3,Leicester City
+24,West Ham,1.2,2–2,0.7,Crystal Palace
+25,Aston Villa,0.6,1–1,1.1,Brentford
+26,Newcastle Utd,1.4,2–2,3.6,Southampton
+27,Brighton,1.0,0–2,1.6,Everton
+28,Liverpool,2.6,1–1,0.8,Chelsea
+29,Burnley,1.4,1–1,1.5,Leeds United
+30,Tottenham,0.9,1–0,0.6,Watford
+31,Wolves,1.8,0–1,0.6,Manchester Utd
+33,Crystal Palace,2.4,3–0,0.1,Tottenham
+34,Watford,0.2,0–2,2.1,Wolves
+35,Brentford,0.7,0–1,0.2,Brighton
+36,Arsenal,2.8,1–0,0.6,Norwich City
+37,Manchester Utd,2.1,4–1,0.7,Newcastle Utd
+38,Leicester City,0.8,0–1,2.9,Manchester City
+39,Southampton,0.8,0–0,0.6,West Ham
+40,Chelsea,1.1,3–0,1.5,Aston Villa
+41,Leeds United,1.2,0–3,4.0,Liverpool
+42,Everton,1.3,3–1,1.3,Burnley
+44,Newcastle Utd,1.3,1–1,2.0,Leeds United
+45,Wolves,0.6,0–2,2.5,Brentford
+46,Manchester City,1.1,0–0,0.4,Southampton
+47,Liverpool,2.7,3–0,0.8,Crystal Palace
+48,Norwich City,1.0,1–3,1.8,Watford
+49,Burnley,1.3,0–1,1.2,Arsenal
+50,Aston Villa,1.3,3–0,0.7,Everton
+51,West Ham,1.6,1–2,1.8,Manchester Utd
+52,Brighton,1.4,2–1,1.7,Leicester City
+53,Tottenham,0.7,0–3,1.9,Chelsea
+55,Manchester Utd,2.3,0–1,1.2,Aston Villa
+56,Chelsea,0.3,0–1,1.7,Manchester City
+57,Leicester City,2.6,2–2,0.7,Burnley
+58,Leeds United,1.3,1–2,1.8,West Ham
+59,Watford,1.1,1–1,2.5,Newcastle Utd
+60,Everton,2.1,2–0,0.6,Norwich City
+61,Brentford,1.9,3–3,2.5,Liverpool
+62,Southampton,1.2,0–1,1.0,Wolves
+63,Arsenal,0.8,3–1,1.0,Tottenham
+64,Crystal Palace,1.4,1–1,0.6,Brighton
+66,Manchester Utd,0.9,1–1,1.1,Everton
+67,Wolves,0.9,2–1,0.6,Newcastle Utd
+68,Burnley,1.0,0–0,0.5,Norwich City
+69,Chelsea,3.6,3–1,1.3,Southampton
+70,Leeds United,1.9,1–0,0.2,Watford
+71,Brighton,1.4,0–0,0.5,Arsenal
+72,Tottenham,1.7,2–1,1.1,Aston Villa
+73,Crystal Palace,1.3,2–2,1.7,Leicester City
+74,West Ham,1.3,1–2,1.2,Brentford
+75,Liverpool,1.0,2–2,1.2,Manchester City
+77,Watford,0.5,0–5,3.6,Liverpool
+78,Leicester City,3.1,4–2,1.4,Manchester Utd
+79,Manchester City,1.9,2–0,1.0,Burnley
+80,Southampton,2.3,1–0,0.2,Leeds United
+81,Aston Villa,1.1,2–3,2.0,Wolves
+82,Norwich City,1.0,0–0,0.9,Brighton
+83,Brentford,1.6,0–1,0.3,Chelsea
+84,Everton,0.8,0–1,1.5,West Ham
+85,Newcastle Utd,0.5,2–3,1.6,Tottenham
+86,Arsenal,1.4,2–2,0.9,Crystal Palace
+88,Arsenal,2.7,3–1,1.4,Aston Villa
+89,Chelsea,3.2,7–0,0.2,Norwich City
+90,Leeds United,1.9,1–1,1.0,Wolves
+91,Crystal Palace,1.7,1–1,0.4,Newcastle Utd
+92,Everton,2.3,2–5,3.2,Watford
+93,Southampton,1.6,2–2,0.7,Burnley
+94,Brighton,1.3,1–4,3.9,Manchester City
+95,West Ham,1.2,1–0,0.7,Tottenham
+96,Brentford,1.2,1–2,1.5,Leicester City
+97,Manchester Utd,1.5,0–5,3.8,Liverpool
+99,Leicester City,1.2,0–2,0.9,Arsenal
+100,Newcastle Utd,0.3,0–3,2.1,Chelsea
+101,Liverpool,1.1,2–2,1.1,Brighton
+102,Burnley,2.2,3–1,0.7,Brentford
+103,Watford,1.2,0–1,2.0,Southampton
+104,Manchester City,1.1,0–2,1.1,Crystal Palace
+105,Tottenham,0.7,0–3,1.2,Manchester Utd
+106,Norwich City,0.9,1–2,1.0,Leeds United
+107,Aston Villa,0.7,1–4,2.3,West Ham
+108,Wolves,1.6,2–1,1.5,Everton
+110,Southampton,0.8,1–0,0.6,Aston Villa
+111,Manchester Utd,0.6,0–2,2.0,Manchester City
+112,Brentford,2.2,1–2,1.4,Norwich City
+113,Chelsea,2.2,1–1,1.0,Burnley
+114,Crystal Palace,2.0,2–0,0.2,Wolves
+115,Brighton,1.6,1–1,0.2,Newcastle Utd
+116,Everton,0.5,0–0,0.8,Tottenham
+117,Leeds United,1.2,1–1,1.1,Leicester City
+118,Arsenal,1.7,1–0,0.7,Watford
+119,West Ham,1.0,3–2,1.4,Liverpool
+121,Leicester City,0.4,0–3,2.4,Chelsea
+122,Wolves,1.2,1–0,0.5,West Ham
+123,Watford,2.2,4–1,1.6,Manchester Utd
+124,Norwich City,0.5,2–1,1.1,Southampton
+125,Aston Villa,0.6,2–0,0.4,Brighton
+126,Newcastle Utd,1.6,3–3,0.8,Brentford
+127,Burnley,1.3,3–3,2.0,Crystal Palace
+128,Liverpool,4.3,4–0,0.4,Arsenal
+129,Manchester City,2.3,3–0,0.3,Everton
+130,Tottenham,2.0,2–1,1.1,Leeds United
+132,Arsenal,2.0,2–0,0.2,Newcastle Utd
+133,Crystal Palace,0.9,1–2,0.4,Aston Villa
+134,Liverpool,2.5,4–0,1.0,Southampton
+135,Norwich City,1.5,0–0,0.3,Wolves
+136,Brighton,2.1,0–0,0.9,Leeds United
+137,Brentford,1.2,1–0,0.9,Everton
+138,Leicester City,2.2,4–2,2.7,Watford
+139,Manchester City,2.1,2–1,0.2,West Ham
+140,Chelsea,2.9,1–1,0.7,Manchester Utd
+142,Newcastle Utd,1.1,1–1,1.4,Norwich City
+143,Leeds United,1.7,1–0,1.0,Crystal Palace
+144,Southampton,1.5,2–2,1.5,Leicester City
+145,West Ham,1.6,1–1,1.1,Brighton
+146,Wolves,0.7,0–0,0.2,Burnley
+147,Watford,1.0,1–2,1.3,Chelsea
+148,Aston Villa,0.9,1–2,0.9,Manchester City
+149,Everton,0.6,1–4,2.1,Liverpool
+150,Tottenham,2.4,2–0,0.3,Brentford
+151,Manchester Utd,1.9,3–2,1.5,Arsenal
+153,West Ham,1.8,3–2,1.2,Chelsea
+154,Newcastle Utd,1.3,1–0,0.7,Burnley
+155,Southampton,1.4,1–1,1.4,Brighton
+156,Wolves,0.2,0–1,2.5,Liverpool
+157,Watford,0.7,1–3,3.6,Manchester City
+158,Leeds United,1.2,2–2,1.0,Brentford
+159,Tottenham,1.7,3–0,1.6,Norwich City
+160,Manchester Utd,1.1,1–0,0.9,Crystal Palace
+161,Aston Villa,2.0,2–1,1.4,Leicester City
+162,Everton,1.0,2–1,1.2,Arsenal
+164,Brentford,1.9,2–1,0.6,Watford
+165,Manchester City,3.5,1–0,0.2,Wolves
+166,Liverpool,2.5,1–0,0.4,Aston Villa
+167,Arsenal,1.5,3–0,0.6,Southampton
+168,Chelsea,2.8,3–2,1.4,Leeds United
+169,Norwich City,0.9,0–1,2.0,Manchester Utd
+170,Burnley,0.6,0–0,0.6,West Ham
+171,Leicester City,2.5,4–0,0.7,Newcastle Utd
+172,Crystal Palace,1.6,3–1,1.3,Everton
+174,Norwich City,0.5,0–2,1.7,Aston Villa
+175,Manchester City,3.6,7–0,0.2,Leeds United
+176,Brighton,1.1,0–1,1.3,Wolves
+177,Crystal Palace,1.2,2–2,0.7,Southampton
+178,Arsenal,2.7,2–0,0.3,West Ham
+179,Chelsea,2.7,1–1,0.4,Everton
+180,Liverpool,2.4,3–1,0.3,Newcastle Utd
+182,Leeds United,1.6,1–4,3.2,Arsenal
+183,Wolves,0.3,0–0,0.8,Chelsea
+184,Newcastle Utd,0.4,0–4,3.1,Manchester City
+185,Tottenham,3.4,2–2,1.5,Liverpool
+187,West Ham,1.7,2–3,1.3,Southampton
+188,Manchester City,3.4,6–3,2.4,Leicester City
+189,Norwich City,0.1,0–5,2.5,Arsenal
+190,Tottenham,2.5,3–0,0.2,Crystal Palace
+191,Aston Villa,0.6,1–3,2.8,Chelsea
+192,Brighton,0.9,2–0,0.9,Brentford
+193,Newcastle Utd,1.1,1–1,1.2,Manchester Utd
+195,Southampton,0.4,1–1,2.4,Tottenham
+196,Crystal Palace,2.0,3–0,1.2,Norwich City
+197,Watford,1.1,1–4,2.9,West Ham
+198,Leicester City,0.6,1–0,2.5,Liverpool
+199,Chelsea,1.1,1–1,0.9,Brighton
+200,Brentford,0.3,0–1,0.8,Manchester City
+201,Manchester Utd,2.0,3–1,0.8,Burnley
+203,Arsenal,1.0,1–2,1.8,Manchester City
+204,Watford,0.3,0–1,1.9,Tottenham
+205,Crystal Palace,2.2,2–3,2.0,West Ham
+206,Leeds United,1.3,3–1,0.9,Burnley
+207,Brentford,0.5,2–1,1.1,Aston Villa
+208,Everton,1.6,2–3,1.5,Brighton
+209,Chelsea,1.3,2–2,1.4,Liverpool
+210,Manchester Utd,0.8,0–1,0.7,Wolves
+212,Southampton,1.6,4–1,0.7,Brentford
+213,West Ham,2.1,2–0,0.3,Norwich City
+215,Brighton,2.1,1–1,0.3,Crystal Palace
+216,Manchester City,0.7,1–0,0.5,Chelsea
+217,Norwich City,0.7,2–1,0.7,Everton
+218,Newcastle Utd,1.4,1–1,1.3,Watford
+219,Wolves,2.1,3–1,1.1,Southampton
+220,Aston Villa,2.0,2–2,1.0,Manchester Utd
+221,West Ham,2.0,2–3,2.3,Leeds United
+222,Liverpool,3.1,3–0,0.5,Brentford
+224,Brighton,0.6,1–1,0.7,Chelsea
+226,Leicester City,1.5,2–3,3.7,Tottenham
+227,Brentford,2.2,1–3,2.0,Manchester Utd
+229,Watford,1.1,0–3,0.7,Norwich City
+230,Everton,1.3,0–1,0.6,Aston Villa
+231,Leeds United,1.0,0–1,1.1,Newcastle Utd
+232,Manchester Utd,1.8,1–0,0.4,West Ham
+233,Brentford,1.3,1–2,0.2,Wolves
+234,Southampton,1.1,1–1,1.6,Manchester City
+235,Crystal Palace,2.2,1–3,1.7,Liverpool
+236,Arsenal,1.2,0–0,0.4,Burnley
+237,Leicester City,2.2,1–1,1.0,Brighton
+238,Chelsea,0.9,2–0,0.4,Tottenham
+240,Burnley,0.8,0–0,1.0,Watford
+242,West Ham,0.7,1–0,0.3,Watford
+243,Newcastle Utd,2.2,3–1,0.6,Everton
+244,Burnley,0.6,1–1,2.1,Manchester Utd
+245,Tottenham,1.5,2–3,2.7,Southampton
+246,Norwich City,0.5,1–1,1.1,Crystal Palace
+247,Manchester City,2.0,2–0,0.7,Brentford
+248,Aston Villa,1.8,3–3,1.9,Leeds United
+249,Liverpool,2.6,2–0,0.3,Leicester City
+250,Wolves,0.9,0–1,1.8,Arsenal
+252,Manchester Utd,2.1,1–1,1.1,Southampton
+253,Everton,2.1,3–0,0.3,Leeds United
+254,Brentford,1.5,0–0,0.5,Crystal Palace
+255,Watford,0.5,0–2,1.4,Brighton
+256,Norwich City,0.5,0–4,4.6,Manchester City
+257,Newcastle Utd,0.5,1–0,0.4,Aston Villa
+258,Burnley,0.8,0–1,1.6,Liverpool
+259,Tottenham,1.4,0–2,1.3,Wolves
+260,Leicester City,1.3,2–2,0.6,West Ham
+262,Manchester Utd,2.0,2–0,0.6,Brighton
+264,West Ham,0.6,1–1,0.7,Newcastle Utd
+265,Aston Villa,1.3,0–1,1.1,Watford
+266,Arsenal,2.1,2–1,0.6,Brentford
+267,Southampton,2.0,2–0,0.3,Everton
+268,Liverpool,3.0,3–1,0.6,Norwich City
+269,Brighton,0.5,0–3,0.7,Burnley
+270,Crystal Palace,0.6,0–1,1.1,Chelsea
+271,Manchester City,2.1,2–3,1.8,Tottenham
+272,Leeds United,1.5,2–4,2.6,Manchester Utd
+273,Wolves,0.6,2–1,1.6,Leicester City
+275,Burnley,1.1,1–0,0.9,Tottenham
+277,Watford,1.0,1–4,0.8,Crystal Palace
+279,Liverpool,5.0,6–0,0.2,Leeds United
+281,Arsenal,2.7,2–1,1.0,Wolves
+283,Southampton,2.8,2–0,0.6,Norwich City
+284,Leeds United,1.5,0–4,2.4,Tottenham
+285,Crystal Palace,0.9,1–1,0.2,Burnley
+286,Manchester Utd,2.9,0–0,0.5,Watford
+287,Brighton,0.6,0–2,1.2,Aston Villa
+288,Brentford,0.3,0–2,2.4,Newcastle Utd
+289,Everton,0.8,0–1,1.6,Manchester City
+290,West Ham,2.1,1–0,0.8,Wolves
+292,Burnley,1.0,0–2,1.5,Leicester City
+294,Leicester City,0.5,1–0,1.9,Leeds United
+295,Newcastle Utd,1.6,2–1,1.3,Brighton
+296,Aston Villa,2.6,4–0,0.7,Southampton
+297,Burnley,0.8,0–4,2.2,Chelsea
+298,Wolves,0.5,0–2,2.6,Crystal Palace
+299,Norwich City,1.4,1–3,2.1,Brentford
+300,Liverpool,2.6,1–0,1.5,West Ham
+301,Watford,1.5,2–3,1.4,Arsenal
+302,Manchester City,2.6,4–1,0.5,Manchester Utd
+303,Tottenham,2.9,5–0,0.2,Everton
+305,Wolves,0.9,4–0,0.9,Watford
+307,Southampton,1.3,1–2,0.6,Newcastle Utd
+309,Norwich City,1.0,1–3,1.9,Chelsea
+311,Leeds United,0.2,0–3,1.4,Aston Villa
+313,Brighton,0.8,0–2,2.3,Liverpool
+314,Brentford,1.9,2–0,0.7,Burnley
+315,Manchester Utd,1.1,3–2,1.3,Tottenham
+316,Chelsea,0.8,1–0,0.2,Newcastle Utd
+317,Southampton,1.1,1–2,1.5,Watford
+318,West Ham,1.3,2–1,1.0,Aston Villa
+319,Everton,0.5,0–1,0.8,Wolves
+320,Leeds United,2.5,2–1,1.2,Norwich City
+321,Arsenal,2.3,2–0,0.3,Leicester City
+322,Crystal Palace,0.8,0–0,2.3,Manchester City
+324,Brighton,0.7,0–2,2.4,Tottenham
+326,Arsenal,0.5,0–2,0.8,Liverpool
+328,Everton,0.6,1–0,1.0,Newcastle Utd
+330,Wolves,0.8,2–3,2.2,Leeds United
+331,Aston Villa,0.4,0–1,1.3,Arsenal
+332,Leicester City,1.3,2–1,1.4,Brentford
+333,Tottenham,2.5,3–1,0.6,West Ham
+335,Liverpool,2.1,2–0,0.6,Watford
+336,Wolves,1.2,2–1,2.1,Aston Villa
+337,Leeds United,1.1,1–1,1.7,Southampton
+338,Chelsea,1.6,1–4,2.1,Brentford
+339,Burnley,0.1,0–2,1.8,Manchester City
+340,Brighton,2.9,0–0,0.3,Norwich City
+341,Manchester Utd,1.3,1–1,0.8,Leicester City
+342,West Ham,1.2,2–1,0.8,Everton
+343,Tottenham,3.1,5–1,0.6,Newcastle Utd
+344,Crystal Palace,1.6,3–0,0.8,Arsenal
+346,Burnley,1.4,3–2,2.4,Everton
+348,Newcastle Utd,1.6,1–0,0.3,Wolves
+349,Everton,0.4,1–0,0.7,Manchester Utd
+350,Arsenal,1.8,1–2,0.5,Brighton
+351,Southampton,0.5,0–6,4.2,Chelsea
+352,Watford,1.2,0–3,1.0,Leeds United
+353,Aston Villa,1.6,0–4,1.0,Tottenham
+354,Brentford,1.6,2–0,0.3,West Ham
+355,Leicester City,1.0,2–1,1.3,Crystal Palace
+356,Norwich City,1.5,2–0,1.9,Burnley
+357,Manchester City,2.0,2–2,1.0,Liverpool
+359,Tottenham,0.4,0–1,0.7,Brighton
+360,Manchester Utd,2.0,3–2,1.9,Norwich City
+361,Watford,1.5,1–2,1.3,Brentford
+362,Southampton,0.7,1–0,1.7,Arsenal
+363,Newcastle Utd,1.4,2–1,0.6,Leicester City
+364,West Ham,2.0,1–1,1.6,Burnley
+366,Liverpool,2.3,4–0,0.1,Manchester Utd
+368,Everton,1.5,1–1,1.0,Leicester City
+370,Chelsea,0.6,2–4,2.4,Arsenal
+372,Newcastle Utd,0.9,1–0,0.5,Crystal Palace
+373,Manchester City,1.1,3–0,0.1,Brighton
+374,Burnley,1.5,2–0,1.1,Southampton
+376,Arsenal,2.2,3–1,2.2,Manchester Utd
+377,Leicester City,0.4,0–0,0.6,Aston Villa
+378,Manchester City,3.0,5–1,0.5,Watford
+379,Norwich City,0.7,0–3,2.4,Newcastle Utd
+380,Brentford,0.8,0–0,0.7,Tottenham
+381,Brighton,1.4,2–2,0.9,Southampton
+382,Burnley,1.1,1–0,0.7,Wolves
+383,Chelsea,2.8,1–0,0.5,West Ham
+384,Liverpool,1.6,2–0,0.4,Everton
+385,Crystal Palace,1.9,0–0,0.4,Leeds United
+387,Manchester Utd,0.6,1–1,2.0,Chelsea
+389,Newcastle Utd,0.2,0–1,2.3,Liverpool
+390,Watford,1.1,1–2,2.0,Burnley
+391,Wolves,0.6,0–3,2.5,Brighton
+392,Aston Villa,2.2,2–0,0.6,Norwich City
+393,Southampton,0.5,1–2,1.0,Crystal Palace
+394,Leeds United,1.2,0–4,2.7,Manchester City
+395,Tottenham,1.5,3–1,0.4,Leicester City
+396,Everton,1.3,1–0,1.2,Chelsea
+397,West Ham,0.4,1–2,0.8,Arsenal
+398,Manchester Utd,1.5,3–0,0.6,Brentford
+400,Crystal Palace,1.9,1–0,0.5,Watford
+401,Brentford,3.1,3–0,1.0,Southampton
+402,Chelsea,2.5,2–2,2.1,Wolves
+403,Burnley,1.7,1–3,1.8,Aston Villa
+404,Brighton,2.8,4–0,0.8,Manchester Utd
+405,Liverpool,1.2,1–1,1.1,Tottenham
+406,Leicester City,1.8,1–2,1.5,Everton
+407,Norwich City,0.7,0–4,3.1,West Ham
+408,Arsenal,2.9,2–1,0.5,Leeds United
+409,Manchester City,3.1,5–0,0.9,Newcastle Utd
+411,Aston Villa,1.1,1–2,1.9,Liverpool
+412,Leeds United,0.5,0–3,1.5,Chelsea
+414,Leicester City,2.5,3–0,1.2,Norwich City
+416,Watford,0.3,0–0,1.2,Everton
+418,Wolves,0.5,1–5,3.1,Manchester City
+420,Tottenham,3.1,3–0,0.4,Arsenal
+422,Tottenham,2.0,1–0,0.7,Burnley
+423,Leeds United,2.0,1–1,2.2,Brighton
+424,Watford,1.4,1–5,2.3,Leicester City
+425,Wolves,0.9,1–1,1.3,Norwich City
+426,Aston Villa,1.0,1–1,1.3,Crystal Palace
+427,West Ham,1.3,2–2,2.5,Manchester City
+428,Everton,1.8,2–3,1.6,Brentford
+429,Newcastle Utd,2.1,2–0,0.6,Arsenal
+430,Southampton,0.1,1–2,1.5,Liverpool
+432,Everton,0.8,3–2,1.4,Crystal Palace
+434,Aston Villa,1.3,1–1,1.6,Burnley
+436,Chelsea,1.7,1–1,0.1,Leicester City
+438,Brentford,1.2,1–2,1.4,Leeds United
+439,Leicester City,2.3,4–1,1.2,Southampton
+440,Crystal Palace,0.5,1–0,0.8,Manchester Utd
+441,Arsenal,3.1,5–1,1.1,Everton
+442,Brighton,1.7,3–1,0.3,West Ham
+443,Norwich City,0.3,0–5,3.7,Tottenham
+444,Manchester City,2.9,3–2,0.3,Aston Villa
+445,Liverpool,3.2,3–1,1.1,Wolves
+446,Burnley,1.4,1–2,1.8,Newcastle Utd
+447,Chelsea,2.4,2–1,1.0,Watford
