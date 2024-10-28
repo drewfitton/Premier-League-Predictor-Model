@@ -1,0 +1,3 @@
+# dependencies and chromedriver
+/__pycache__
+/clean_data/chromedriver-mac-x64
