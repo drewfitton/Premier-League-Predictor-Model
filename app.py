@@ -11,11 +11,11 @@ CORS(app)
 
 
 # Database configuration
-db_user = 'drewf'    
-db_password = 'Soccer.666'  
-db_host = 'localhost'      
-db_port = '5432'           
-db_name = 'drewf'    
+db_user = 'db_user'    # Replace with your PostgreSQL username
+db_password = 'db_password'  # Replace with your PostgreSQL password
+db_host = 'localhost'      # Replace with your PostgreSQL host (e.g., localhost or IP)
+db_port = '5432'           # PostgreSQL port (default is 5432)
+db_name = 'db_name'  # Replace with your PostgreSQL db name  
 
 # Connection string
 connection_string = f"postgresql+psycopg2://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
